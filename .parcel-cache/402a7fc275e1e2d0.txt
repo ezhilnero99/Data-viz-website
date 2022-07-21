@@ -1,4 +1,4 @@
-7995
+7958
 86C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\Jprotest-medium.954b9486.png133028937304022862 0
 94C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\text-table\test\doubledot.js133026110444720000 0
 96C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\bootstrap\js\dist\scrollspy.js133026110145640000 0
@@ -19,7 +19,7 @@
 95C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\nullthrows\nullthrows.js.flow133026110204560000 0
 122C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\030-config.md133026110570710000 0
 60C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\src\css133026128800525568 1
-57C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs133028831027465824 1
+57C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs133028953835219776 1
 79C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\src\assets\Global-death.ai133028867161546045 0
 115C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\eslint\lib\rules\no-whitespace-before-property.js133026110423850000 0
 97C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\eslint\lib\rules\no-debugger.js133026110423850000 0
@@ -44,7 +44,7 @@
 97C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\caniuse-lite\data\regions\SE.js133026110615170000 0
 83C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\has-flag\index.js133026110412620000 0
 97C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\weak-lru-cache\rollup.config.js133026110245940000 0
-63C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\.gitignore133028922894196671 0
+63C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\.gitignore133028958886063409 0
 93C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\caniuse-lite\data\agents.js133026110615170000 0
 65C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\package.json133026149671992242 0
 94C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\css-tree\dist\csstree.min.js133026110739280000 0
@@ -65,7 +65,7 @@
 78C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\htmlnano\lib133026133558814769 1
 97C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\caniuse-lite\data\regions\IT.js133026110615170000 0
 100C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@popperjs\core\lib\createPopper.js133026110145950000 0
-57C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist133028948585663872 1
+57C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist133028952952915081 1
 80C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\terser\LICENSE133026110577610000 0
 88C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\src\assets\Mass-Shooting-scrolly.ai133028901300828802 0
 92C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@swc\helpers\src\index.mjs133026110599200000 0
@@ -294,7 +294,6 @@
 133C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages133026133584187410 0
 106C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\node-gyp-build-optional-packages\LICENSE133026110244800000 0
 100C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\eslint\messages\plugin-conflict.js133026110423850000 0
-90C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\ai2html-test-mobile.a38bf855.png133027245806253295 0
 78C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\lmdb\open.js133026110612330000 0
 73C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\src\assets\Header.ai133027268717802746 0
 78C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\terser\tools133026133560295169 1
@@ -590,7 +589,6 @@
 101C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\type-fest\source\readonly-deep.d.ts133026110448370000 0
 104C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\eslint\lib\rules\operator-linebreak.js133026110423850000 0
 80C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\domelementtype133026133544770108 1
-82C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\flag-medium.b11e78bc.png133026158977168095 0
 87C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\js-yaml\lib\loader.js133026110442750000 0
 84C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\css-tree\lib\utils133026133568497290 1
 117C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\runtime-js\src\helpers\browser\js-loader.js133026110491230000 0
@@ -922,7 +920,6 @@
 106C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\node-resolver-core\src\_empty.js133026110580850000 0
 155C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\transformer-sass\node_modules\@parcel\workers\test\integration\workerfarm\echo.js133026110187320000 0
 75C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\lmdb\dist133026133558894766 1
-90C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\ai2html-test-medium.1a4dba0b.png133026149761560091 0
 153C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\package.json133026110580850000 0
 106C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\src\ai2html-output\ai2html-images\shoot_all-small.jpg133027618645468752 0
 92C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\core\lib\Parcel.js133026110457620000 0
@@ -1374,7 +1371,6 @@
 86C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\yaml\types\binary.js133026110842750000 0
 81C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\fast-deep-equal133026133545330256 1
 116C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\parcel\node_modules\@parcel\fs-search\node_modules133026133584427476 1
-83C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\doge_2-small.e3c6da08.jpg133026149761600106 0
 79C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\.bin\jake.cmd133026133585536127 0
 121C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt133026110612330000 0
 82C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\path-is-absolute133026133547411770 1
@@ -1666,7 +1662,6 @@
 99C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\caniuse-lite\data\features\svg.js133026110615170000 0
 155C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\transformer-sass\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1133026110198210000 0
 79C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\yaml\types.js133026110842750000 0
-89C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\ai2html-test-small.56296ae8.png133026149776428059 0
 98C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\terser\lib\compress\inference.js133026110577610000 0
 80C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\yaml\types.mjs133026110842750000 0
 123C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\update-browserslist-db\node_modules\.bin\browserslist.cmd133026133585187671 0
@@ -2060,7 +2055,6 @@
 107C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\type-fest\source\require-exactly-one.d.ts133026110448370000 0
 137C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\index.js133026110413000000 0
 100C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\type-fest\source\set-optional.d.ts133026110448370000 0
-80C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\flag-wide.2b8a9546.png133026159367268222 0
 90C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\shebang-command\index.js133026110446950000 0
 90C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\css-what\lib\es\types.js133026110846910000 0
 103C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\type-fest\source\set-return-type.d.ts133026110448370000 0
@@ -2366,7 +2360,6 @@
 100C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\svgo\plugins\removeStyleElement.js133026110577400000 0
 96C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\svgo\plugins\removeUnusedNS.js133026110577400000 0
 97C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\caniuse-lite\data\regions\TN.js133026110615170000 0
-84C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\doge_3-medium.e738d4a7.jpg133026149761600106 0
 99C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\svgo\plugins\removeUselessDefs.js133026110577400000 0
 97C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\caniuse-lite\data\regions\GN.js133026110615170000 0
 79C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\.bin\sass.cmd133026133586056258 0
@@ -4381,7 +4374,6 @@
 114C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@swc\helpers\lib\_is_native_reflect_construct.js133026110599200000 0
 86C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\deep-is\package.json133026110450200000 0
 101C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\eslint\lib\cli-engine\xml-escape.js133026110423850000 0
-82C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\flag-medium.b50b1e0e.png133026159366337984 0
 86C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\caniuse-lite\LICENSE133026110615170000 0
 109C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\eslint\lib\cli-engine\formatters\compact.js133026110423850000 0
 112C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\eslint\lib\cli-engine\formatters\jslint-xml.js133026110423850000 0
@@ -4703,7 +4695,6 @@
 79C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\css-tree\dist133026133556854234 1
 106C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\source-map\parcel_sourcemap_node133026133555213798 1
 82C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\css-tree\LICENSE133026110739280000 0
-82C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\doge_2-wide.c0f02dea.jpg133027327394946563 0
 145C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\transformer-sass\node_modules\@parcel\utils\src\generateBuildMetrics.js133026110192550000 0
 85C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\css-tree\lib\common133026133568177212 1
 88C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\css-tree\lib\convertor133026133568457293 1
@@ -4726,7 +4717,6 @@
 105C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\css-tree\lib\utils\createCustomError.js133026110739280000 0
 111C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\bootstrap\dist\js\bootstrap.bundle.min.js.map133026110145640000 0
 113C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133026110739280000 0
-93C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\ai2html-test-wide_copy.eddf41a6.png133027245806253295 0
 97C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\css-tree\lib\tokenizer\utils.js133026110739280000 0
 97C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\caniuse-lite\data\regions\BM.js133026110615170000 0
 99C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\caniuse-lite\data\features\url.js133026110615170000 0
@@ -4762,7 +4752,6 @@
 96C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\css-select\lib\attributes.d.ts133026110736730000 0
 92C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\ajv\lib\dot\multipleOf.jst133026110425410000 0
 104C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\css-tree\lib\syntax\node\Combinator.js133026110739280000 0
-81C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\flag-small.fd400730.png133026158976247867 0
 103C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\css-tree\lib\syntax\node\Dimension.js133026110739280000 0
 94C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\events\lib\errors.js133026110457880000 0
 104C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\css-tree\lib\syntax\node\IdSelector.js133026110739280000 0
@@ -4910,7 +4899,6 @@
 97C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\caniuse-lite\data\regions\PG.js133026110615170000 0
 104C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\cosmiconfig\dist\ExplorerSync.d.ts.map133026110725600000 0
 98C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\cosmiconfig\dist\ExplorerSync.js133026110725600000 0
-84C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\doge_3-medium.b201fcda.jpg133027327394946563 0
 109C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\chokidar\node_modules\glob-parent\README.md133026110188990000 0
 100C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\cosmiconfig\dist\getDirectory.d.ts133026110725600000 0
 91C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@jridgewell\set-array\src133026133549812379 1
@@ -5364,7 +5352,6 @@
 120C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\caniuse-lite\data\features\input-autocomplete-onoff.js133026110615170000 0
 118C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@popperjs\core\dist\esm\dom-utils\getOffsetParent.js133026110145950000 0
 107C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\caniuse-lite\data\features\input-color.js133026110615170000 0
-84C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\doge_1-medium.a12a2070.jpg133026149776428059 0
 91C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\watcher\src\linux133026133562615770 1
 110C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\caniuse-lite\data\features\input-datetime.js133026110615170000 0
 115C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\caniuse-lite\data\features\input-email-tel-url.js133026110615170000 0
@@ -5687,7 +5674,6 @@
 113C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@popperjs\core\lib\modifiers\popperOffsets.d.ts133026110145950000 0
 102C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\bootstrap\dist\css\bootstrap.rtl.css133026110145640000 0
 106C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\bootstrap\dist\css\bootstrap.rtl.css.map133026110145640000 0
-90C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\ai2html-test-medium.c5d83cc8.png133027245806253295 0
 93C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\runtime-browser-hmr133026133540568996 1
 106C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\bootstrap\dist\css\bootstrap.rtl.min.css133026110145640000 0
 110C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\bootstrap\dist\css\bootstrap.rtl.min.css.map133026110145640000 0
@@ -7019,7 +7005,6 @@
 122C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\runtime-react-refresh\src\ReactRefreshRuntime.js133026110491420000 0
 122C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133026110491420000 0
 97C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\runtime-js\package.json133026110491230000 0
-84C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\doge_2-medium.f6ebe113.jpg133026149780699208 0
 118C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.mjs133026110869750000 0
 100C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\package-manager\src\Npm.js133026110459610000 0
 88C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\runtime-js\src133026133551452817 1
@@ -7102,7 +7087,6 @@
 108C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\packager-js\lib\ESMOutputFormat.js133026110481750000 0
 111C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\packager-js\lib\GlobalOutputFormat.js133026110481750000 0
 100C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\packager-js\lib\helpers.js133026110481750000 0
-80C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\flag-wide.c6d26ed3.png133027242732519806 0
 114C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\packager-js\lib\ScopeHoistingPackager.js133026110481750000 0
 95C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\packager-html\LICENSE133026110481510000 0
 91C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\packager-html\src133026133551012693 1
@@ -7368,7 +7352,6 @@
 123C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\fs\node_modules\lmdb\dependencies\lz4\lib\LICENSE133026110198210000 0
 121C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\fs\node_modules\lmdb\dependencies\lz4\lib\lz4.h133026110198210000 0
 126C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\fs\node_modules\lmdb\dependencies\lz4\lib\lz4frame.h133026110198210000 0
-82C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\doge_3-wide.624fbbdb.jpg133026149780739230 0
 123C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\fs\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c133026110198210000 0
 123C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\fs\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133026110198210000 0
 127C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\fs\node_modules\@parcel\utils\test\objectHash.test.js133026110192550000 0
@@ -7662,7 +7645,6 @@
 100C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\core\src\RequestTracker.js133026110457620000 0
 100C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\core\src\resolveOptions.js133026110457620000 0
 96C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\core\src\serializer.js133026110457620000 0
-88C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\ai2html-test-wide.cbddd29e.png133027245806253295 0
 100C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\core\src\Transformation.js133026110457620000 0
 102C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\core\src\UncommittedAsset.js133026110457620000 0
 91C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\core\src\utils.js133026110457620000 0
@@ -7810,7 +7792,6 @@
 111C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@jridgewell\source-map\dist\source-map.umd.js133026110763420000 0
 115C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@jridgewell\source-map\dist\source-map.umd.js.map133026110763420000 0
 92C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@jridgewell\set-array\dist133026133549812379 1
-82C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\doge_2-wide.6abecb2c.jpg133026149776428059 0
 97C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@jridgewell\set-array\README.md133026110869290000 0
 113C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@jridgewell\set-array\dist\set-array.umd.js.map133026110869290000 0
 102C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@jridgewell\resolve-uri\package.json133026110871180000 0
@@ -7896,20 +7877,10 @@
 75C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\.bin\sass133026133586056258 0
 79C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\.bin\svgo.cmd133026133586150156 0
 81C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\.bin\terser.cmd133026133586230179 0
-90C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\ai2html-test-mobile.7c9668fa.png133026149780699208 0
-88C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\ai2html-test-wide.a47bac84.png133026149780699208 0
 90C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\death-vs-gdp-medium.2edf3e0c.png133028831002437277 0
 90C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\death-vs-gdp-mobile.5a99324a.png133028831002647294 0
 88C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\death-vs-gdp-wide.cb3d7285.png133028831002647294 0
 93C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\death-vs-gdp-wide_copy.4cd4c4f8.png133028831002437277 0
-84C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\doge_1-mobile.2f21f932.jpg133026149761560091 0
-83C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\doge_1-small.7b4e8a4e.jpg133026149780699208 0
-82C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\doge_1-wide.5aecf9f8.jpg133026149761560091 0
-84C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\doge_2-mobile.98833a2a.jpg133026149776468060 0
-84C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\doge_3-mobile.198dc8bd.jpg133026149780739230 0
-83C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\doge_3-small.5761cff9.jpg133026149776468060 0
-82C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\flag-mobile.09da4b0e.png133026159367268222 0
-81C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\flag-small.194dbd24.png133026159366308017 0
 90C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\Global-death-mobile.5a99324a.png133028831002437277 0
 93C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\Global-death-wide_copy.954cc4fe.png133028831027385798 0
 87C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\gun-count-medium.2edf3e0c.png133028831027395793 0
@@ -7936,17 +7907,9 @@
 99C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\USA-deaths-over-years-mobile.5a99324a.png133028831002437277 0
 98C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\USA-deaths-over-years-small.0eaab6a7.png133028831002657298 0
 102C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\USA-deaths-over-years-wide_copy.8d98d777.png133028831027395793 0
-89C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\ai2html-test-small.c0ae25ee.png133027245806253295 0
 90C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\death-vs-gdp-medium.2a837f1d.png133028937304002896 0
 83C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\doge_1-small.141f0b12.jpg133027340352293121 0
 82C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\doge_1-wide.a732a31d.jpg133027340907993409 0
-84C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\doge_2-medium.1df75734.jpg133027327394696505 0
-84C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\doge_2-mobile.d7177a4a.jpg133027327394846528 0
-83C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\doge_2-small.c9c8875a.jpg133027327394726519 0
-84C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\doge_3-mobile.7689c91b.jpg133027327394776511 0
-83C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\doge_3-small.8a3e8793.jpg133027327394986569 0
-82C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\doge_3-wide.8a8ba97e.jpg133027327394996583 0
-82C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\flag-mobile.6db592b5.png133026158976247867 0
 90C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\Global-death-medium.14f9866e.png133028937302942646 0
 88C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\Global-death-wide.71902af1.png133028937304002896 0
 95C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\dist\Global-death-wide_copy_2.c51f537f.png133027302943343588 0
