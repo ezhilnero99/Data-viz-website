@@ -11502,4 +11502,17 @@ body {
   line-height: 200%;
 }
 
+.gif-img {
+  width: 980px;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#initial-text {
+  text-align: center;
+  display: block;
+}
+
 /*# sourceMappingURL=index.c92073ef.css.map */

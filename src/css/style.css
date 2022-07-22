@@ -57,3 +57,17 @@ body {
     color: aliceblue;
     line-height: 200%;
 }
+
+.gif-img {
+    display: block;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+    margin-left: auto;
+}
+
+#initial-text {
+    display: block;
+    text-align: center;
+}

@@ -89,12 +89,18 @@
             </div>
         </div>
     </section>
-    <section class="ai2html" style="margin-top: 80px;">
+
+    <p class="content-text mt-5" style="margin-bottom: 0px;">
+        <span style="display: block ;text-align: center;">A Comparison Of No. Of. People Killed Per 100k Vs The Development Of The Country (GDP).</span>
+    </p>
+    <img class="gif-img" src="./Images/test1.gif" alt="Animated Gif of Death Vs GDP.">
+
+    <section class="ai2html" style="margin-top: 0px;">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12">
                     <!-- This is the line that matters for import -->
-                    <%- include('./ai2html-output/death-vs-gdp.ejs'); %>
+                    <%- include('./ai2html-output/vs-legend.ejs'); %>
                 </div>
             </div>
         </div>
@@ -187,7 +193,7 @@
         [
         { 
             "filename" : "shoot_all" , 
-            "anno" : "_blank-slide_" 
+            "anno" : "<div class='h5 fw-bold' id='initial-text'> Incidents across USA in the past 10 years. </div>" 
         }, 
         { 
             "filename" : "shoot_1" , 
@@ -210,16 +216,13 @@
 
     </section>
 
-    <section class="ai2html" style="margin-top: 100px;">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-12">
-                    <!-- This is the line that matters for import -->
-                    <%- include('./ai2html-output/Mass-over-years.ejs'); %>
-                </div>
-            </div>
-        </div>
-    </section>
+    <p class="content-text mt-5" style="margin-bottom: 0px;">
+        <span style="display: block ;text-align: center;">Number Of Gun Violence Victims In Mass Shooting In U.S.A Over The Last 5 Years.</span>
+    </p>
+    <img class="gif-img" src="./Images/chart2.gif" alt="Animated Gif of Death Vs GDP.">
+    <p class="content-text" style="margin-bottom: 0px; margin-top: 0px;">
+        <span style="display: block ;text-align: left; color: #b2b2b2; font-size: 12px;">Source: Everytown</span>
+    </p>
 
     <section class="ai2html" style="margin-top: 100px;">
         <div class="container-fluid">
