@@ -20,7 +20,7 @@
 96C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\core-js\features\math\index.js133029257253080000 0
 122C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\030-config.md133026110570710000 0
 60C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\src\css133026128800525568 1
-57C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs133029330319144846 1
+57C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs133029374893577689 1
 79C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\src\assets\Global-death.ai133028867161546045 0
 106C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\core-js\modules\es.typed-array.filter.js133029257253080000 0
 115C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\eslint\lib\rules\no-whitespace-before-property.js133026110423850000 0
@@ -58,7 +58,7 @@
 65C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\package.json133029257379830431 0
 76C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\is-extglob133026133545850372 1
 98C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@popperjs\core\lib\enums.js.flow133026110145950000 0
-68C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\index.html133029330319144846 0
+68C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\docs\index.html133029374893557688 0
 110C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\src\ai2html-output\ai2html-images\gun-count-wide_copy.png133028928097343744 0
 103C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@parcel\runtime-js\src\helpers\worker133026133572178261 1
 100C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\core-js\modules\es.array.splice.js133029257253080000 0
@@ -81,7 +81,7 @@
 97C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\caniuse-lite\data\regions\SL.js133026110615170000 0
 92C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\@swc\helpers\src\index.mjs133026110599200000 0
 100C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\core-js\modules\es.symbol.match.js133029257253080000 0
-66C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\src\index.ejs133029307376166344 0
+66C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\src\index.ejs133029374699263634 0
 90C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\react-refresh\runtime.js133026110595300000 0
 103C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\core-js\features\typed-array\every.js133029257253080000 0
 103C:\Users\ezhilnero\Documents\GitHub\Data-viz-website\node_modules\core-js\proposals\object-iteration.js133029257253080000 0
